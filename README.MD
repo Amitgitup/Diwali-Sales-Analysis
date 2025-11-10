@@ -61,6 +61,3 @@ This project explores and analyzes Diwali sales data using Python, pandas, matpl
    ```
 2. Run the notebook: `EDA_Diwali Sales Analysis.ipynb`
 
----
-
-*Project by: [Your Name Here]*
